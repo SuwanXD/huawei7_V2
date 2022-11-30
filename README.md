@@ -17,4 +17,4 @@ $ ls
 
 $ python Huawei_V2.py
 
-# JANGAN LUPA FOLLOW & KASIH BINTANG
+# JANGAN LUPA FOLLOW & KASIH STAR😂
